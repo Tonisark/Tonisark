@@ -52,8 +52,7 @@
 
 - Improving Kotlin/Android architecture patterns  
 - Building AI-powered automation tools  
-- Designing full-stack MVPs that solve real user problems
-
+- Telegram AIO Bot
 ---
 
 ### 📫 Connect with me
