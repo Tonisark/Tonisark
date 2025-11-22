@@ -9,7 +9,7 @@
 - 🌱 Learning: **scalable architectures, Kotlin/Android best practices, and advanced Python**
 - 💡 Interests: **AI automation, real-time apps, developer tooling, mobile + backend integration**
 - 💬 Ask me about: **Python, Java, Kotlin, Android Studio**
-- 📫 Reach me at: **`your.email@domain.com`**
+- 📫 Reach me at: **`contactmohrez@gmail.com`**
 - ⚡ Fun fact: I love turning small ideas into fully-working MVPs :)
 
 ---
