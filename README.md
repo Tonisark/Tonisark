@@ -11,7 +11,7 @@
 - 💬 Ask me about: **Python, Java, Kotlin, Android Studio**
 - 📫 Reach me at: **`contactmohrez@gmail.com`**
 - ⚡ Fun fact: I love turning small ideas into fully-working MVPs :)
-
+- 💾 Obsessed with clean, accurate datasets
 ---
 
 ### 🛠️ Languages and Tools
@@ -25,6 +25,12 @@
 
 ---
 
+### Data Entery
+- Obsessed with clean, accurate datasets
+-  → Built and maintained personal databases with 10,000+ actress/media records
+ - → 99.9 % data accuracy (manually verified dates, names, categories, thumbnails)
+ - → Comfortable with CSV, SQLite, JSON, Excel, Access, bulk imports
+---
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -45,7 +51,7 @@
 | **AI / Automation**   | Chatbots, summarizers, assistants |
 | **Developer Tools**   | Internal CLI tools, dashboards  |
 | **Mobile + Backend**  | Kotlin/Android apps with rich APIs |
-
+| **Data Engineering & Clean Data Systems** | Large-scale personal databases (10k+ records), CSV/SQLite pipelines, automated age calculation, precise data cleaning & enrichment, thumbnail/media cataloging |
 ---
 
 ### 🧭 Current Focus
@@ -53,16 +59,24 @@
 - Improving Kotlin/Android architecture patterns  
 - Building AI-powered automation tools  
 - Telegram AIO Bot
+- Large Scale Databases
 ---
 
 ### 📫 Connect with me
 
 <p align="center">
+<p align="center">
+  <!-- Stack Overflow -->
   <a href="https://stackoverflow.com/users/16320084/toni" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-FF8800?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/StackOverflow-FF8800?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
   </a>
-</p>
+  &nbsp;&nbsp;&nbsp;
 
+  <!-- Email with text + Gmail badge -->
+   <a href="mailto:contactmohrez@gmail.com">
+    <img src="https://img.shields.io/badge/contactmohrez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+---  
+<p align="center">✨ Thanks for visiting! Let’s connect and build something cool. ✨</p>
 ---
-
-<p align="center">✨ _Thanks for visiting! Let’s connect and build something cool._ ✨</p>
